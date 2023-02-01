@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola me llamo Joan Oliver y estoy aprendiendo Data Science en The Bridge
+Gracias
 
 <!--
 **JoanOliverPerez96/JoanOliverPerez96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
